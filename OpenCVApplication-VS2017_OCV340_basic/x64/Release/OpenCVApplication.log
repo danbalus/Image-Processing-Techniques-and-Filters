@@ -1,0 +1,33 @@
+﻿  OpenCVApplication.cpp
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(508): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(614): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(658): warning C4002: too many actual parameters for macro 'max'
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(659): warning C4002: too many actual parameters for macro 'min'
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1085): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1210): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1880): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1929): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1968): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2010): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2337): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2341): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2358): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2443): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2457): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2470): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2525): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2526): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2591): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2640): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2767): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2852): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(l)\lab1\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(3127): warning C4101: 'w': unreferenced local variable
+  Generating code
+  1 of 895 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenCVApplication.vcxproj -> C:\Users\DanB\Desktop\UTCN\Semestrul II - Dan\PI(L)\Lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\x64\Release\OpenCVApplication.exe
+  OpenCV\dll\Release\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Release\opencv_world340.dll
+          2 file(s) copied.
